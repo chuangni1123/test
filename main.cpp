@@ -1,9 +1,8 @@
 #include<iostream>
-#include"print.h"
 using namespace std;
 
 int main()
 {
-  print();
+  cout<<"Hello word!"<<endl;
   return 0;
 }
